@@ -1,4 +1,4 @@
-# 👨🏽‍💻 Samson Okaludo – Full Stack Software Engineer  
+# 👨🏽‍💻 Samson Okaludo – Senior Full Stack Software Engineer  
 
 📍 **Abuja, Nigeria**  
 📧 [okaludosamson@gmail.com](mailto:okaludosamson@gmail.com)  
