@@ -21,6 +21,14 @@ Passionate about leveraging technology for good and collaborating cross-function
 
 ### 🏢 **Enterprise & Government Projects**  
 
+- **[Enterprise Management System (EMS)](https://techatechemtdevelop.netlify.app)**  
+  A full stack business operations suite for manufacturers, workshops, and service companies to manage production, quality control, delivery slips, and financial analytics in one place.  
+  - Built with **Next.js, Tailwind CSS, Node.js, Express, TypeScript, MongoDB**  
+  - Role based access for Super Admin, Management, and QC  
+  - Delivery slip generation, print ready UI, audit trail, and pagination  
+  - Advanced reporting and analytics on staff productivity, potential earnings, cost of production, working profit  
+  - Shopify integration for syncing QC confirmed items with Shopify inventory and products 
+
 - **[ECO Canada](https://eco.ca/)** & **[ECO Impact](https://ecoimpact.ca/)**  
   Contributed via **Open Range Devs** to maintaining and improving large-scale WordPress platforms.  
   Delivered UI/UX enhancements, SEO optimization, and performance upgrades for Canada’s environmental workforce initiatives.
