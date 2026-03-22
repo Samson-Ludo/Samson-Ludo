@@ -27,7 +27,38 @@ Passionate about leveraging technology for good and collaborating cross-function
   - Role based access for Super Admin, Management, and QC  
   - Delivery slip generation, print ready UI, audit trail, and pagination  
   - Advanced reporting and analytics on staff productivity, potential earnings, cost of production, working profit  
-  - Shopify integration for syncing QC confirmed items with Shopify inventory and products 
+  - Shopify integration for syncing QC confirmed items with Shopify inventory and products
+ 
+
+
+- **WordPress Infrastructure Migration (Ethnyk → Ayyahair)**
+
+Migrated a large WordPress e-commerce platform from a constrained shared hosting environment to a scalable Pro setup, resolving persistent downtime and resource failures.
+
+ - Live Sites: [Ethnyk.com](https://ethnyk.com) and [Ayyahair.com](https://ayyahair.com) 
+
+ - Diagnosed recurring 503 errors, CPU throttling, and disk quota issues caused by hosting limits
+
+ - Identified and removed a 14GB malicious file that was exhausting server resources
+
+ - Migrated ~16GB application using rsync (server-to-server) across isolated cPanel accounts, avoiding compression and download bottlenecks
+
+ - Performed manual database migration via phpMyAdmin, resolving SQL import and permission issues
+
+ - Fixed WordPress configuration:
+
+    corrected DB credentials
+
+    aligned table prefix (wpci_)
+
+    resolved MySQL auth errors (HY000/1045)
+
+ - Reconfigured domain and document root to point to new environment
+
+ - Consolidated multiple sites into a single Pro hosting plan for better performance and cost efficiency
+
+ - Result:
+Stabilized production system, eliminated downtime, and established a scalable hosting setup.
 
 - **[ECO Canada](https://eco.ca/)** & **[ECO Impact](https://ecoimpact.ca/)**  
   Contributed via **Open Range Devs** to maintaining and improving large-scale WordPress platforms.  
