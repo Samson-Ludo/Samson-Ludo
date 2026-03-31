@@ -29,7 +29,32 @@ Passionate about leveraging technology for good and collaborating cross-function
   - Advanced reporting and analytics on staff productivity, potential earnings, cost of production, working profit  
   - Shopify integration for syncing QC confirmed items with Shopify inventory and products
  
+- **ShiftSync — Workforce Scheduling & Assignment System**
 
+🔗 **GitHub Repository:** https://github.com/Samson-Ludo/shiftsync
+
+A production-grade workforce scheduling system built to handle real-world constraints such as concurrency, availability, and complex assignment rules.
+
+🧠 Key Highlights
+
+- Designed and built a full-stack scheduling system with a strong focus on **data integrity, concurrency control, and scalability**
+- Implemented a **constraint-based assignment engine** handling:
+  - Shift overlaps
+  - Rest periods
+  - Skill matching
+  - Certification requirements
+  - Staff availability validation
+- Engineered a **transaction-safe assignment workflow** using MongoDB transactions and a reservation-lock pattern to prevent race conditions and double-booking
+- Designed efficient **time-range queries and compound indexes** for accurate and performant scheduling operations
+- Built a responsive frontend using **Next.js (Pages Router), TypeScript, and Tailwind CSS**
+- Developed a scalable backend with **Node.js, Express, TypeScript, and MongoDB**
+- Implemented **real-time validation and intelligent suggestion logic** for optimal staff assignment decisions
+- Deployed production-ready infrastructure using:
+  - **Netlify** (Frontend)
+  - **Render** (Backend API)
+  - **MongoDB Atlas** (Database)
+- Enhanced user experience with **skeleton loading states, responsive layouts, and intuitive navigation**
+- Implemented comprehensive end-to-end tests to validate scheduling workflows, ensuring reliability of assignment logic under real-world scenarios.
 
 - **WordPress Infrastructure Migration (Ethnyk → Ayyahair)**
 
