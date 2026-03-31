@@ -34,7 +34,7 @@ const samson = {
   approach: "Design for real-world constraints first",
   goal: "Build systems that remain correct under pressure"
 }
-
+```
 
 ---
 
