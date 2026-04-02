@@ -243,30 +243,6 @@ WordPress, Shopify API, Stripe, Contentful
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samson-Ludo&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samson-Ludo&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samson-Ludo&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/Samson-Ludo/Samson-Ludo/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🤝 Connect
 
 📧 [okaludosamson@gmail.com](mailto:okaludosamson@gmail.com)
